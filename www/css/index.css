@@ -1,11 +1,10 @@
 .box {
     height: 200px;
     width: 300px;
-    border: 1px solid red;
     margin: 0 auto;
     font-family: tahoma;
     background-color: orange;
-    border-radius: 3%;
+    border-radius: 5%;
     color: gray;
 }
 
